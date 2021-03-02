@@ -1,8 +1,8 @@
 # production
-./build
+/build
 
 # netbeans config
-./nbproject
+/nbproject
 
 # misc
 build.xml
