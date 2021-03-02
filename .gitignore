@@ -1,9 +1,16 @@
-# production
-/build
+# NetBeans specific #
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+nbactions.xml
+nb-configuration.xml
 
-# netbeans config
-/nbproject
+# Class Files #
+*.class
 
-# misc
-build.xml
-manifest.mf
+# Package Files #
+*.jar
+*.war
+*.ear
