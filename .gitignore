@@ -1,9 +1,10 @@
 # NetBeans specific #
-nbproject/private/
 build/
-nbbuild/
 dist/
 nbdist/
+nbproject/*
+!nbproject/project.properties
+!nbproject/project.xml
 nbactions.xml
 nb-configuration.xml
 
