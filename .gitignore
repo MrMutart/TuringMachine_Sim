@@ -1,0 +1,9 @@
+# production
+/build
+
+# netbeans config
+/nbproject
+
+# misc
+build.xml
+manifest.mf
